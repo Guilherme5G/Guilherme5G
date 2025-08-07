@@ -2,7 +2,7 @@
 
 <h1>Bem vindo ao menu mundo digital</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='auto'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif'/>
 
 <div style="text-align: right">Perfil em desenvolvimento...Futuro software engineer</div>
 
