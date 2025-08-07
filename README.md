@@ -2,7 +2,7 @@
 
 <h1>Bem vindo ao menu mundo digital</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='auto'/>
 
 <div style="text-align: right">Perfil em desenvolvimento...Futuro software engineer</div>
 
@@ -11,7 +11,8 @@
 * python
 * HTML
 * CSS
-* entre outros...
+* C
+* em desenvolvimento
 
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
