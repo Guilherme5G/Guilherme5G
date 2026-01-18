@@ -71,12 +71,13 @@ Minha visão de futuro vai além do código: tenho o objetivo claro de me tornar
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme5G&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme5G&show_icons=true&theme=dark"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme5G&layout=compact&theme=dark"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guiam2909&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Guilherme5G&style=flat-square&color=blue" alt="Profile views" />
 </div>
