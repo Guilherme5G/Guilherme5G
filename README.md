@@ -27,12 +27,14 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software na FIAP** (Graduação dez/2028), atualmente focado no desenvolvimento de projetos **Full Stack** robustos.
+Sou estudante de **Engenharia de Software na FIAP** (Graduação dez/2028), com foco em construir sistemas de alta performance que integram o melhor do desenvolvimento **Full Stack** com a **Engenharia de Machine Learning**.
 
-Minha visão de futuro vai além do código: tenho o objetivo claro de me tornar um Engenheiro de Software completo, dominando **Inteligência Artificial**. Para isso, estou aprofundando meus estudos na base matemática (Cálculo, Estatística, Álgebra Linear) para desbravar **Machine Learning** e **Deep Learning**, unindo a engenharia de software tradicional com o poder dos dados.
+Minha visão de engenharia busca o domínio do ciclo completo: projetar Front-ends intuitivos, Back-ends de alta disponibilidade e arquiteturas de dados sólidas, sempre sob a ótica da **segurança e robustez**. Acredito que um software de excelência deve ser escalável por fora e matematicamente inteligente por dentro.
 
-* 🔭 **Atualmente trabalhando em:** Projetos Full Stack.
-* 🌱 **Aprendendo:** C# e .NET, Estruturas de Dados (C/Python) e Matemática para IA.
+Nessa jornada, estou consolidando minha base teórica (Cálculo, Estatística e Álgebra Linear) para me especializar no desenvolvimento de modelos. Meu objetivo é **criar, treinar e implantar modelos de ML e Deep Learning** de forma nativa, transformando sistemas tradicionais em ecossistemas inteligentes e seguros.
+
+* 🔭 **Atualmente trabalhando em:** Projetos Full Stack robustos com foco em arquiteturas escaláveis.
+* 🌱 **Aprendendo:** Java, C#/.NET e o desenvolvimento de modelos de **Machine Learning** do zero.
 * ⚡ **Curiosidade:** Quando não estou codando, estou na academia, assistindo F1 🏎️ ou maratonando Rick and Morty.
 
 ---
@@ -40,13 +42,14 @@ Minha visão de futuro vai além do código: tenho o objetivo claro de me tornar
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  
-  <h3>Linguagens</h3>
+
+  <h3>Linguagens & Data Science</h3>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
   <h3>Front-end</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -60,9 +63,11 @@ Minha visão de futuro vai além do código: tenho o objetivo claro de me tornar
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-  <h3>Ferramentas</h3>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <h3>Ferramentas & AI</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   
 </div>
 
