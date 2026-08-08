@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" />
 <!--
 **Guilherme5G/Guilherme5G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
