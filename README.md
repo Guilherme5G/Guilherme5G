@@ -1,17 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Guilherme 👋</h1>
+<p align="center">
+  Software Engineering Student @ FIAP • Backend Developer • AI & Machine Learning • Python • SQL • Java
+</p>
 
-<img src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" />
-<!--
-**Guilherme5G/Guilherme5G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-000?style=badge&logo=python&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-000?style=badge&logo=java&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-000?style=badge&logo=postgresql&logoColor=4479A1)
+![Flask](https://img.shields.io/badge/Flask-000?style=badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?style=badge&logo=git&logoColor=F05032)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+> Currently focused on deepening my studies in Backend architecture, Artificial Intelligence, and Machine Learning.
+
+
+## Current Projects
+
+- 🏢 **[Context](https://totvs-context.vercel.app/welcome)** (Challenge FIAP) - Corporate interaction intelligence and context-aware solutions.
+- 🏎️ **[APEX F1 Strategy Predictor](https://github.com/Guilherme5G/APEX-f1-strategy-predictor)** (Personal Project) - Data analysis and pit stop strategy prediction for Formula 1 using Machine Learning algorithms.
+
+
+## What I'm Doing
+
+- **Studying AI & Backend Architecture** - Deep diving into neural networks, applied machine learning, and building robust, scalable systems
+
+- **Building Predictive Models** - Applying computational statistics and AI in practical, real-world data scenarios
+
+- **Designing for Impact** - Creating digital solutions that are practical, scalable and built for real users
+
+- **Thinking Long-Term** - Engineering technology that compounds in value over time
+
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/?username=Guilherme5G&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Guilherme%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Estatísticas do GitHub de Guilherme" />
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme5G&langs_count=4&theme=calm" alt="Top Linguagens de Guilherme" />
+</div>
+
+
+## Certificates
+
+<div align='center'>
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" alt="Global Solution - 2026">
+</div>
+
+
+## Philosophy
+
+> It's action that makes all the difference in the world.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-Follow_Guilherme5G-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilherme5G)
+</div>
+
+<div align="center">
+<img width='90px' src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg'/>
+</div>
