@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Guilherme 👋</h1>
 <p align="center">
-  Software Engineering Student @ FIAP • Backend Developer • AI & Machine Learning • Python • SQL • Java
+  Software Engineering Student @ FIAP • Full Stack Developer • AI & Machine Learning • Python • SQL • Java
 </p>
 
 <div align="center">
