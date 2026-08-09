@@ -37,9 +37,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=Guilherme5G&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Guilherme%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Estatísticas do GitHub de Guilherme" />
+  <img width='450px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilherme5G&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Guilherme%27s+Stats&number_format=long&disable_animations=true&show=prs_merged_percentage,prs_reviewed" alt="Estatísticas do GitHub de Guilherme" />
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guilherme5G&langs_count=4&theme=calm" alt="Top Linguagens de Guilherme" />
+  <img width='350px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guilherme5G&layout=compact&theme=calm&count_private=true&size_weight=0&count_weight=1&langs_count=4" alt="Top Linguagens de Guilherme" />
 </div>
 
 
