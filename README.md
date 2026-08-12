@@ -11,26 +11,27 @@
 ![SQL](https://img.shields.io/badge/SQL-000?style=badge&logo=postgresql&logoColor=4479A1)
 ![Flask](https://img.shields.io/badge/Flask-000?style=badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000?style=badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-000?style=badge&logo=amazon-aws&logoColor=232F3E)
 
 </div>
 
-> Currently focused on deepening my studies in Backend architecture, Artificial Intelligence, and Machine Learning.
+> Currently focused on deepening my studies in Backend architecture, Cloud Computing, Artificial Intelligence, and Machine Learning.
 
 
 ## Current Projects
 
 - 🏢 **[Context](https://totvs-context.vercel.app/welcome)** (Challenge FIAP) - Corporate interaction intelligence and context-aware solutions.
 - 🏎️ **[APEX F1 Strategy Predictor](https://github.com/Guilherme5G/APEX-f1-strategy-predictor)** (Personal Project) - Data analysis and pit stop strategy prediction for Formula 1 using Machine Learning algorithms.
+- ☁️ **Cloud Fundamentals, Administration and Solution Architect** (FIAP Course) - Exploring cloud architecture, deployment models, and multi-cloud services (AWS, Azure, GCP), alongside containerization (Docker, Kubernetes) and DevOps operations.
 
 
 ## What I'm Doing
 
 - **Studying AI & Backend Architecture** - Deep diving into neural networks, applied machine learning, and building robust, scalable systems
-
+- **Mastering Cloud Computing & DevOps** - Expanding knowledge in multi-cloud environments (AWS, Azure, GCP) and modern infrastructure administration using Docker and Kubernetes
 - **Building Predictive Models** - Applying computational statistics and AI in practical, real-world data scenarios
-
 - **Designing for Impact** - Creating digital solutions that are practical, scalable and built for real users
-
 - **Thinking Long-Term** - Engineering technology that compounds in value over time
 
 
