@@ -48,7 +48,7 @@
 ## Certificates
 
 <div align='center'>
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" alt="Global Solution - 2026">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=light&badge=gs&year=2026&topic=space-connect" alt="Global Solution Winner - 2026">
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=193820" alt="FIAP Badge">
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=276841" alt="FIAP Badge">
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=284705" alt="FIAP Badge">
