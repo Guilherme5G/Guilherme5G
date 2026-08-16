@@ -22,7 +22,7 @@
 ## Current Projects
 
 - 🏢 **[Context](https://totvs-context.vercel.app/welcome)** (Challenge FIAP) - Corporate interaction intelligence and context-aware solutions.
-- 🏎️ **[APEX F1 Strategy Predictor](https://github.com/Guilherme5G/APEX-f1-strategy-predictor)** (Personal Project) - Data analysis and pit stop strategy prediction for Formula 1 using Machine Learning algorithms.
+- 🧠 **Machine Learning Studies & Mini-Projects** (Personal Study) - Studying Machine Learning by building small, targeted projects for each algorithm/method. This hands-on approach helps me solidify my understanding and lays a strong foundation for large-scale future applications.
 - ☁️ **Cloud Fundamentals, Administration and Solution Architect** (FIAP Course) - Exploring cloud architecture, deployment models, and multi-cloud services (AWS, Azure, GCP), alongside containerization (Docker, Kubernetes) and DevOps operations.
 
 
