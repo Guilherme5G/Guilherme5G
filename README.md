@@ -12,7 +12,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000?style=badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-000?style=badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-000?style=badge&logo=amazon-aws&logoColor=232F3E)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=badge&logo=kubernetes&logoColor=326CE5)
+![Cloud](https://img.shields.io/badge/Cloud-000?style=badge&logo=icloud&logoColor=white)
 
 </div>
 
