@@ -49,6 +49,11 @@
 
 <div align='center'>
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2026&topic=space-connect" alt="Global Solution - 2026">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=193820" alt="FIAP Badge">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=276841" alt="FIAP Badge">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=284705" alt="FIAP Badge">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=820547" alt="FIAP Badge">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=915204" alt="FIAP Badge">
 </div>
 
 
@@ -61,6 +66,10 @@
 [![GitHub](https://img.shields.io/badge/-Follow_Guilherme5G-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilherme5G)
 </div>
 
+<br>
+
 <div align="center">
-<img width='90px' src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg'/>
+  <img width='90px' src='https://upload.wikimedia.org/wikipedia/commons/c/cc/Harvard_University_coat_of_arms.svg' title='Harvard University'/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width='75px' src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg' title='Stanford University'/>
 </div>
