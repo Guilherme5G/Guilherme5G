@@ -49,6 +49,7 @@
 
 <div align='center'>
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&topic=space-connect&year=2026&edge=524b36&text=dfc168&accent=dfc168&muted=d8b96a&line=4e4630" alt="Global Solution - 2026">
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=silver&badge=challenge&year=2026&company=totvs&ranking=2">
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=193820" alt="FIAP Badge">
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=276841" alt="FIAP Badge">
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?theme=black&badge=284705" alt="FIAP Badge">
