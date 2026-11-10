@@ -1,9 +1,8 @@
-
 <h1 align="center">Hi, I'm Guilherme 👋</h1>
 
 <p align="center">
   <b>Software Engineering Student @ FIAP</b><br>
-  Full Stack & Backend Development • Machine Learning • AI
+  Full Stack & AI/ML Engineer
 </p>
 
 <p align="center">
@@ -37,6 +36,10 @@
 </div>
 
 > Currently focused on deepening my studies in Backend architecture, Cloud Computing, Artificial Intelligence, and Machine Learning.
+
+## 📝 Featured Technical Article
+
+**[Beyond Accuracy: Building and Evaluating a Disaster Tweet Classifier with TF-IDF and LinearSVC](https://github.com/Guilherme5G/Disaster-tweet-classifier/blob/main/TECHNICAL_ARTICLE.md)** · [LinkedIn publication](https://www.linkedin.com/feed/update/urn:li:ugcPost:7525906443053461505/)
 
 I build and study **end-to-end ML systems**, from data quality and model evaluation to APIs, automated testing, and deployment. I enjoy understanding the algorithms, not just using them.
 
