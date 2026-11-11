@@ -57,13 +57,17 @@ I build and study **end-to-end ML systems**, from data quality and model evaluat
 
 **[Live Demo](https://huggingface.co/spaces/GuiAraujo05/disaster-tweet-classifier)** · **[Kaggle Notebook](https://www.kaggle.com/code/guiamoreira/disaster-tweets-tf-idf-linear-svm)** · **[Model](https://huggingface.co/GuiAraujo05/disaster-tweets-tfidf-linear-svm)** · **[Technical Article](https://github.com/Guilherme5G/Disaster-tweet-classifier/blob/main/TECHNICAL_ARTICLE.md)**
 
-### 🧠 [GPT from Scratch — Language Model Foundations](https://github.com/Guilherme5G/GPT_from_scratch)
 
-**Python · PyTorch · Autoregressive Language Modeling**
+### 🧠 [GPT from Scratch — Decoder-Only Transformer](https://github.com/Guilherme5G/GPT_from_scratch)
 
-- Implementing character-level language models from first principles, following Andrej Karpathy's tutorial.
-- Built Bigram models, token embeddings, language-modeling heads, autoregressive generation, and causal-masking exercises.
-- **In progress:** Self-attention, multi-head attention, and the complete Transformer architecture.
+**Python · PyTorch · Transformers · Multi-Head Self-Attention · Autoregressive Language Modeling**
+
+- **Implemented and trained a character-level GPT architecture from scratch**, following Andrej Karpathy's tutorial, progressing from a Bigram baseline to a decoder-only Transformer.
+- Built **Query-Key-Value attention, causal masking, multi-head self-attention, positional embeddings, feedforward networks, residual connections, and layer normalization**.
+- Trained a Transformer with **6 layers, 6 attention heads, and 384-dimensional embeddings** on the Tiny Shakespeare dataset.
+- **Experimental results:** Achieved a validation cross-entropy loss of **1.4873**, compared with **2.4911** for the Bigram baseline, demonstrating the improvement obtained with contextual modeling.
+
+**Status: Completed educational implementation.** Developed to understand Transformer architecture and language model training from first principles, not to reproduce a pretrained GPT-2 model.
 
 ---
 
