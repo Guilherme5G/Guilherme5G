@@ -55,7 +55,7 @@ I build and study **end-to-end ML systems**, from data quality and model evaluat
 - **34 automated tests**, with validation metrics reproduced in a clean environment.
 - Compared classifiers, investigated data leakage and errors, and deployed an interactive demo.
 
-**[Live Demo](https://huggingface.co/spaces/GuiAraujo05/disaster-tweet-classifier)** · **[Kaggle Notebook](https://www.kaggle.com/code/guiamoreira/disaster-tweets-tf-idf-linear-svm)** · **[Model](https://huggingface.co/GuiAraujo05/disaster-tweets-tfidf-linear-svm)** · **[Technical Article](https://github.com/Guilherme5G/Disaster-tweet-classifier/blob/main/TECHNICAL_ARTICLE.md)**
+**[Live Demo Hugging Face](https://huggingface.co/spaces/GuiAraujo05/disaster-tweet-classifier)** · **[Kaggle Notebook](https://www.kaggle.com/code/guiamoreira/disaster-tweets-tf-idf-linear-svm)** · **[Model](https://huggingface.co/GuiAraujo05/disaster-tweets-tfidf-linear-svm)** · **[Technical Article](https://github.com/Guilherme5G/Disaster-tweet-classifier/blob/main/TECHNICAL_ARTICLE.md)**
 
 
 ### 🧠 [GPT from Scratch — Decoder-Only Transformer](https://github.com/Guilherme5G/GPT_from_scratch)
